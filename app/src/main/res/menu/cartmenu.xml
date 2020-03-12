@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/mycart"
+    android:title="Your Cart"
+    android:icon="@drawable/cartvector"
+    app:showAsAction="always"
+    />
+    <item android:id="@+id/shopbybrand"
+        android:title="Shop by brand"
+        android:icon="@drawable/phonevector"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/signout"
+        android:title="signout"
+        android:icon="@drawable/signoutvector"
+        app:showAsAction="never"
+        />
+
+</menu>
