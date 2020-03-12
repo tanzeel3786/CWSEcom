@@ -61,7 +61,7 @@ private Button loginpageloginbtn,simp;
                              }
                              else
                              {
-                                 Toast.makeText(loginActivity.this,"Login Succesfull",Toast.LENGTH_SHORT).show();
+                                 Toast.makeText(loginActivity.this,"Login is Succesfull",Toast.LENGTH_SHORT).show();
                                  Intent intent=new Intent(loginActivity.this,frontproductspage.class);
                                  Person.email=loginpageeditemail.getText().toString();
                                 // person.setEmail(loginpageeditemail.getText().toString());
