@@ -57,7 +57,7 @@ private Button loginpageloginbtn,simp;
                         public void onResponse(String response) {
                              if(response.equals("User does not exist"))
                              {
-                                 Toast.makeText(loginActivity.this,"Plese enter the correct emaill and password",Toast.LENGTH_SHORT).show();
+                                 Toast.makeText(loginActivity.this," enter the correct emaill and password",Toast.LENGTH_SHORT).show();
                              }
                              else
                              {
