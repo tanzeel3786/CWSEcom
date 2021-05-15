@@ -6,6 +6,9 @@ headphones etc.
 
 ● Payment gateway of Paypal is provide for purchasing of items
 
+**************************************************************************************************************************************
+Long running process: The payment validation of the user takes bit long time to verify the creditnals.
+
 ***************************************************************************************************************************************
 
 
