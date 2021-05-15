@@ -34,6 +34,15 @@ prodtable.php: This file fetches the different types of brands present in the pr
 ********************************************************************************************************************************************
 
 
-Below are functions of Java files
+Below are functions of important Java files
+
+signpag.java: This file Creates a new account of the User and checks whether an account is already created or not.
+
+loginActivity.java: This file checks if the user has already made an account or not. After correct login details, the user can view the products.
+
+frontproductspage.java: This file list all the product present in the database to the first page of the app bu using the recycler view.
+
+cart.java: This page is responsible to view the items in the cart added by the user. Also, it is responsible for the payment to be provided by the user by the payment gateway of Paypal.
+
 
 
